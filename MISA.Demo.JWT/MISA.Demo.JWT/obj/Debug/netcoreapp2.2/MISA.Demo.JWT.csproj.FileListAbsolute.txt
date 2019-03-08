@@ -1,0 +1,14 @@
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\bin\Debug\netcoreapp2.2\MISA.Demo.JWT.deps.json
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\bin\Debug\netcoreapp2.2\MISA.Demo.JWT.runtimeconfig.json
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\bin\Debug\netcoreapp2.2\MISA.Demo.JWT.runtimeconfig.dev.json
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\bin\Debug\netcoreapp2.2\MISA.Demo.JWT.dll
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\bin\Debug\netcoreapp2.2\MISA.Demo.JWT.pdb
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.csprojAssemblyReference.cache
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.csproj.CoreCompileInputs.cache
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.RazorAssemblyInfo.cache
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.RazorAssemblyInfo.cs
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.AssemblyInfoInputs.cache
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.AssemblyInfo.cs
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.RazorTargetAssemblyInfo.cache
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.dll
+C:\Users\nnanh\source\repos\MISA.Demo.JWT\MISA.Demo.JWT\obj\Debug\netcoreapp2.2\MISA.Demo.JWT.pdb
